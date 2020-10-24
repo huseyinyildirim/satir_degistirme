@@ -1,0 +1,9 @@
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\bin\Debug\satir_degistirme.exe.config
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\bin\Debug\satir_degistirme.exe
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\bin\Debug\satir_degistirme.pdb
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\obj\Debug\satir_degistirme.csprojResolveAssemblyReference.cache
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\obj\Debug\satir_degistirme.Form1.resources
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\obj\Debug\satir_degistirme.Properties.Resources.resources
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\obj\Debug\satir_degistirme.csproj.GenerateResource.Cache
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\obj\Debug\satir_degistirme.exe
+C:\Users\huseyinyildirim\Desktop\App\satir_degistirme\satir_degistirme\obj\Debug\satir_degistirme.pdb
